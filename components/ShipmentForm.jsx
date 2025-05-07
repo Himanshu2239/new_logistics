@@ -22,7 +22,7 @@ import SupplierDetails from "./FormSections/SupplierDetails";
 import TransportDetails from "./FormSections/TransportDetails";
 import FreightDetails from "./FormSections/FreightDetails";
 import FreightForwarderDetails from "./FormSections/FreightForwarderDetails";
-import BillOfEntryDetails from "./FormSections/BillOfEntryDetails";
+import BillOfEntryDetails from "./FormSections/BillofEntryDetails";
 import CustomsDutyCalculation from "./FormSections/CustomsDutyCalculation";
 import ExportToolbar from "./ExportToolbar";
 
